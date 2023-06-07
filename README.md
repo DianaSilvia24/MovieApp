@@ -1,16 +1,10 @@
-# ceva
+MovieApp is a small app in Flutter and Dart that allows a user to input data about movies, actors and producers.
+The app allows the user to view information about the movies by showing:
 
-A new Flutter project.
+a) All the movies, with no classification or grouping
+b) The movies the user deemed as favourite
+c) All the movies, grouped by genre
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If someone wishes to view informations about the actors they can either:
+a) View info about all actors for which there is data about in the app
+b) View only the actors that are deemed as 'favourite'
